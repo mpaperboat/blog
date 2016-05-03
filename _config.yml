@@ -4,12 +4,12 @@
 
 # Site
 title: Paperboat
-subtitle: 
-description:
+subtitle:
+description: Know thyself.
 author: Martin Paperboat
 language: en
 timezone:
-avatar: /images/avatar.png
+avatar: /images/avatar.jpg
 duoshuo_shortname: mpaperboat
 duoshuo_info:
   ua_enable: true
@@ -75,5 +75,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/mpaperboat/mpaperboat.github.io.git
+  repo: git@github.com:mpaperboat/mpaperboat.github.io.git
   branch: master
