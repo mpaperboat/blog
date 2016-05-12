@@ -3,3 +3,4 @@
 /scaffolds/
 /db.json
 /package.json
+/.deploy_git/
