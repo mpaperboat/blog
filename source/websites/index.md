@@ -27,6 +27,7 @@ comments : false
 [Google](http://dir.scmor.com/google/)
 [Quora](https://www.quora.com/)
 [Stack Overflow](http://stackoverflow.com/)
+[Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 [Wolfram|Alpha](http://www.wolframalpha.com)
 [知乎](https://www.zhihu.com/)
 # Storage Services #

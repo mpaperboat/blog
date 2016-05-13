@@ -6,7 +6,7 @@ tags:
  - Library
  - Suffix Tree
 categories:
- - Algorithms.Library
+ - Algorithm.Library
 ---
 ``` cpp
 #include<cstring>

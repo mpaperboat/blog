@@ -2,10 +2,10 @@
 title: Linux 下的常用软件
 date: 2016-05-06 13:58:27
 tags:
- - Security
- - Applications
+ - Computer
+ - Application
 categories:
- - Security.Applications
+ - Computer.Application
 ---
 # 前言 #
 最近要对笔记本的硬件进行一些小改动，顺便也可能会重装一下系统。这里只介绍 Linux 下的软件，因为我的主要生产力工具还是 Linux。毕竟 Windows 给我的感觉就是太臃肿了，而且很多软件都充斥着恶意。我知道 Linux 的命令行很强大，但是我接下来介绍的大多都是图形界面的应用。毕竟图形界面更加直观。有些软件源里面没有，不过应该都能找到 PPA 的，自己手动装容易弄乱。
