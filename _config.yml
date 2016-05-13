@@ -16,6 +16,7 @@ duoshuo_info:
   admin_enable: true
   user_id: 6279586082623324929
 since: 2016
+swiftype_key: GhzLgxfy9dgx1J5usfEi
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://mpaperboat.me/
