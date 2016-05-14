@@ -2,11 +2,11 @@
 title: Suffix Tree
 date: 2016-05-01 21:24:28
 tags:
- - Algorithm
- - Library
- - Suffix Tree
+ - Algorithms
+ - Libraries
+ - Suffix Trees
 categories:
- - Algorithm.Library
+ - Algorithms.Libraries
 ---
 ``` cpp
 #include<cstring>
