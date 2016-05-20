@@ -3,9 +3,9 @@ title: ARP 欺骗
 date: 2016-05-14 14:30:16
 tags:
  - Security
- - Network
+ - NetworkSecurity
 categories:
- - Security.Network
+ - Security.NetworkSecurity
 ---
 LAN里面的客户机和路由器共用一个和外部分离的IP地址空间，那个子网掩码就表示哪些位是固定的。
 
