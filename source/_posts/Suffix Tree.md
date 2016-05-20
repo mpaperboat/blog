@@ -5,6 +5,7 @@ tags:
  - Algorithmics
  - String Algorithms
  - Suffix Trees
+ - Algorithms
 categories:
  - Algorithmics.StringAlgorithms
 ---
