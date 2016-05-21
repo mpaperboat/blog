@@ -10,6 +10,17 @@ tags:
 categories:
  - Algorithmics.DataStructures
 ---
+# Description #
+这是用Treap实现的Set。
+
+用的是非旋转的Treap，并维护了size域。可以实现常见的大多数平衡树维护有序表的操作。
+
+模板参数里面的T是数据类型，C是比较器类型。
+
+插入和删除直接用insert和erase就好，都返回修改后的树的根节点；select函数选择第k小的元素；count函数计算出比一个值小的元素个数（或当d=1时计算出比一个值大的元素的个数），并同时返回其中最大（最小）的元素的节点；find函数找到一个值对应的节点；clear函数清空一棵树；size函数返回一棵树的大小（会特判空树的情况）。
+
+注意频繁的插入和删除会降低效率，这时候可以考虑实现一个内存池。
+# Code #
 ``` cpp
 #include<bits/stdc++.h>
 using namespace std;
