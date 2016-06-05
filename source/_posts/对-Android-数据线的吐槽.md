@@ -3,9 +3,9 @@ title: 对 Android 数据线的吐槽
 date: 2016-05-20 16:28:47
 tags:
  - Computers
- - Android
+ - Mobile Development
 categories:
- - Computers.Android
+ - Computers.MobileDevelopment
 ---
 这几天借了个安卓手机写app，发现无法进行USB调试。确认手机上已经打开了USB调试开关，但是插在电脑上完全不能识别新硬件的插入。除了可以充电以外没有其它效果。由于无法识别硬件，所以那些手机助手们也都无能为力。
 

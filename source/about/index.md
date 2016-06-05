@@ -7,4 +7,4 @@ Hi, I am Martin.
 You are visiting a personal blog of mine. 
 Things written there may not be absolutely right.
 However, I believe or believed them.
-Feel free to contact me via [Email](mailto:mpaperboat@outlook.com) .
+Feel free to contact me via [email](mailto:mpaperboat@outlook.com) .

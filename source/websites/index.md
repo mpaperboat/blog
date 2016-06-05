@@ -4,7 +4,10 @@ date: 2016-05-06 13:21:23
 comments : false
 ---
 # News Feeds #
+[ACM/ICPC信息站](http://acmicpc.info/)
 [FreeBuf](http://www.freebuf.com/)
+[GoSSIP_SJTU](http://weibo.com/u/3659841663?is_hot=1)
+[Group of Software Security In Progress](http://www.securitygossip.com/)
 [Mtime](http://www.mtime.com/)
 [The Guardian](http://www.theguardian.com)
 [上海交通大学本科教学信息网](http://www.jwc.sjtu.edu.cn/web/sjtu/198001.htm)
@@ -13,7 +16,7 @@ comments : false
 [Ask Ubuntu](http://askubuntu.com/)
 [Baidu](https://www.baidu.com/)
 [Bing](http://global.bing.com/)
-[Google](http://dir.scmor.com/google/)
+[Google](https://romangol.com/)
 [Quora](https://www.quora.com/)
 [Stack Overflow](http://stackoverflow.com/)
 [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
@@ -30,11 +33,13 @@ comments : false
 [HDUOJ](http://acm.hdu.edu.cn/)
 [hihoCoder](http://www.hihocoder.com/)
 [SPOJ](http://www.spoj.com/)
+[UOJ](http://uoj.ac/)
 [大视野在线评测](http://www.lydsy.com/JudgeOnline/)
 # Educational Resources #
 [传承&交大](http://share.sjtu.edu.cn/)
 [网易公开课](http://open.163.com/)
 # Information Security #
+[gossipwiki](https://loccs.sjtu.edu.cn//wiki/doku.php)
 [RingZer0 Team Online CTF](https://ringzer0team.com/)
 [WooYun](http://www.wooyun.org/)
 # Mail Services #
